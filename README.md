@@ -2,6 +2,7 @@
 # My title is How does the level of education in different parts of London affect house prices.
 
 Hypothesis
+
 The higher the house price, the higher the level of education of the population living in the area.
 
 1. Loading data
